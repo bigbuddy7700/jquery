@@ -1,1 +1,1 @@
-# jquery 연습
+jquery 연습
